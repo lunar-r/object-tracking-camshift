@@ -1,2 +1,2 @@
-# object-tracking-camshift
+# angular change detection using object tracking (CAM SHIFT)
 OBJECT TRACKING USING CAM SHIFT AND HISTOGRAM BACK PROJECTION ALGORITHM
